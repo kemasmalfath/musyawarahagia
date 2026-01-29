@@ -1,7 +1,6 @@
 # Musyawarahagia
 
 
-
 Website yang berfokus pada pengamalan nilai-nilai Pancasila Sila ke-4 (Kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam permusyawaratan/perwakilan).
 
 ## Deskripsi
