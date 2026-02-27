@@ -6,7 +6,7 @@ Musyawarah Agia adalah platform digital yang mempromosikan pentingnya musyawarah
 
 
 
-## Fitur Utama
+## Fitur Utam
 
 - **Hero Section** - Pesan inspiratif tentang pentingnya musyawarah
 - **Tentang Musyawarah** - Penjelasan 4 aspek penting musyawarah dengan visual yang menarik
