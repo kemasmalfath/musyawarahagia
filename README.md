@@ -5,7 +5,7 @@ Website yang berfokus pada pengamalan nilai-nilai Pancasila Sila ke-4 (Kerakyata
 Musyawarah Agia adalah platform digital yang mempromosikan pentingnya musyawarah dalam menyelesaikan masalah. Website ini menyediakan informasi tentang acara diskusi, forum, dan berita terkait dengan nilai-nilai demokrasi dan musyawarah di Indonesia.'
 
 
-## Fitur Utam
+## Fitur Uta
 
 - **Hero Section** - Pesan inspiratif tentang pentingnya musyawarah
 - **Tentang Musyawarah** - Penjelasan 4 aspek penting musyawarah dengan visual yang menarik
