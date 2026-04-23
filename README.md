@@ -19,7 +19,7 @@ Musyawarah Agia adalah platform digital yang mempromosikan pentingnya musyawarah
 
 ## Struktur Folder
 
-\`\`\`
+\`\`\
 musyarahagia/
 ├── index.html      # File HTML utama
 ├── styles.css      # Styling dan layout
