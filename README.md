@@ -12,7 +12,7 @@ Musyawarah Agia adalah platform digital yang mempromosikan pentingnya musyawarah
 - **Berita & Acara Diskusi** - Daftar acara diskusi dengan informasi:
   - Lokasi lengkap
   - Tanggal dan waktu
-  - Kategori acara
+  - Kategori acar
   - Gambar-gambar variatif
 - **Responsive Design** - Kompatibel dengan semua ukuran layar (mobile, tablet, desktop)
 - **Color Palette Indonesia** - Menggunakan warna bendera Indonesia (merah dan putih)
