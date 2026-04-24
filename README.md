@@ -19,6 +19,7 @@ Musyawarah Agia adalah platform digital yang mempromosikan pentingnya musyawarah
 - **Color Palette Indonesia** - Menggunakan warna bendera Indonesia (merah dan putih)
 
 
+
 ## Struktur Folder
 
 
