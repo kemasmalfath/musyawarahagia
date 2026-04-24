@@ -11,7 +11,7 @@ Musyawarah Agia adalah platform digital yang mempromosikan pentingnya musyawarah
 - **Pentingnya Diskusi** - Teks informatif tentang manfaat diskusi dalam menyelesaikan masalah
 - **Berita & Acara Diskusi** - Daftar acara diskusi dengan informasi:
   - Lokasi lengkap
-  - Tanggal dan wakt
+  - Tanggal dan wak
   - Kategori acar
   - 
   - Gambar-gambar variatif
