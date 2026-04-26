@@ -14,7 +14,7 @@ Musyawarah Agia adalah platform digital yang mempromosikan pentingnya musyawarah
   - Lokasi lengkap
   - Tanggal dan wak
   - Kategori acar
-  - 
+  
   - 
   - Gambar-gambar variatif
 - **Responsive Design** - Kompatibel dengan semua ukuran layar (mobile, tablet, desktop)
