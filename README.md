@@ -10,7 +10,7 @@ Musyawarah Agia adalah platform digitayang mempromosikan pentingnya musyawarah d
 
 
 
-- **Hero Section** - Pesan inspiratif tentang pentingnya musyawarah
+- **Hero Section** - Pesan inspiratif tentang pentingnya musyawa
 - **Tentang Musyawarah** - Penjelasan 4 aspek penting musyawarah dengan visual yang menarik
 - **Pentingnya Diskusi** - Teks informatif tentang manfaat diskusi dalam menyelesaikan masalah
 - **Berita & Acara Diskusi** - Daftar acara diskusi dengan informasi:
