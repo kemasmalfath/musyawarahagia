@@ -3,7 +3,7 @@
 
 Website yang berfokus pada pengamalan nilai-nilai Pancasila Sila ke-4 (Kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam permusyawaratan/perwakilan
 ## Deskr
-Musyawarah Agia adalah platform digitayang mempromosikan pentingnya musyawarah dalam menyelesaika masalah. Website ini men\yediakan informasi t\entang acara diskusi, forum, dan berita terkait dengan nilai-nilai demokrasi dan mus
+Musyawarah Agia adalah platform digitayang mempromosikan pentingnya musyawarah dalam menylesaika masalah. Website ini men\yediakan informasi t\entang acara diskusi, forum, dan berita terkait dengan nilai-nilai demokrasi dan mus
 yawarah di Ind\on
 
 ## 
